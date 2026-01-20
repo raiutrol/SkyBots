@@ -1,0 +1,3 @@
+document.getElementById("btn-pagar").addEventListener("click", () => {
+  alert("Aqui vai abrir o PIX");
+});
